@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6dae142-c75f-4c8e-8d61-b510d6ad24d3" name="HuangServer(项目级别)">
+        <fileTransfer accessType="SFTP" host="8.134.134.195" port="22" sshConfigId="a3b6153c-570f-4079-b21c-7dd0a3e21087" sshConfig="root@8.134.134.195:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
